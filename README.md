@@ -34,8 +34,8 @@ This project aims to:
 - **NumPy**
 - **Matplotlib / Seaborn**
 - **Jupyter Notebook / VS Code**
-📁 netflix-eda-project │ ├── 📄 notebook.ipynb        # Full analysis ├── 📄 README.md             # Project documentation └── 📁 data/ └── netflix_titles.csv # Datase
-## ⭐ Key Skills Demonstrated
+
+---
 
 - Data cleaning & wrangling  
 - Feature engineering  
