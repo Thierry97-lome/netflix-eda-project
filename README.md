@@ -44,6 +44,14 @@ This project aims to:
 - Analytical storytelling  
 - Reproducible project structure  
 
+## 📂 Project Structure
+📁 netflix-eda-project
+│
+├── 📄 netflix_eda.ipynb      # Full analysis
+├── 📄 README.md              # Project documentation
+└── 📁 data/
+└── netflix_titles.csv    # Datase
+
 ---
 
 ## 📌 Why This Project Matters
